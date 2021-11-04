@@ -40,7 +40,7 @@ Your job for this assignment is to read through that file and then build and dis
 7 10025
 8 9978
 9 9902
-bad symbols: 1285
+bad symbols: 10214
 ```
 
 ## Notes
