@@ -6,10 +6,10 @@ def main():
         for line in f:
             for c in line:
                 if random.random() < .1:
-                    c = chr(random.randint(0, 127))
-                    print(c, end="")
-                else:
-                    print(c, end="")
+                    random_char = chr(random.randint(58, 127))
+                    print(random_char, end='')
+
+                print(c, end='')
 
 if __name__ == "__main__":
     main()
